@@ -56,7 +56,7 @@ export default function Home() {
         </div>
  <div>
           <p className="font-bold">📣 Fathers Day Sale</p>
-          <p className="text-sm">Free Worldwide Shipping + 40% OFF</p>
+          <p className="text-sm">Free Worldwide Shipping</p>
         </div>
       </div>
     </div>

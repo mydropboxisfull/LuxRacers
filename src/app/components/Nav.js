@@ -8,7 +8,7 @@ const Nav = () => {
         <h1 className="text-white ml-0 font-semibold glow-blue italic">LUXRacers</h1>
       </div>
       <div>
-        <a className="bg-red-500 text-white font-bold px-4 py-2 rounded-full">
+        <a href="https://shop.luxracers.com" className="bg-red-500 text-white font-bold px-4 py-2 rounded-full">
           🇺🇸 Shop now
         </a>
       </div>

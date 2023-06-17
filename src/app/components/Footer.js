@@ -9,7 +9,7 @@ export class Footer extends Component {
     return (
        
        
-        <footer className="bottom-0 bg-[#161616] text-white relative pt-5 shadow-md">
+        <footer className="bottom-0 bg-black text-white relative pt-5 shadow-md">
 			<div className="container mx-auto px-6 ">
 				<div className="justify-center items-center flex pt-[3%] pb-[1%]">
 					<h1 className='glow-blue italic'>LUXRacers</h1>

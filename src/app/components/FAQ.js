@@ -11,7 +11,7 @@ const FAQ = () => {
       },
     {
         question: "What is the warranty coverage for your RC drift cars? 🔎",
-        answer: "We offer a comprehensive 1-year full guarantee warranty on all our RC drift cars. This warranty covers any manufacturing defects or malfunctions."
+        answer: "We offer a comprehensive 90-day full guarantee warranty and 30-day full money back guarantee on all our RC drift cars. This warranty covers any manufacturing defects or malfunctions."
         },
         {
         question: "Are your RC drift cars made in the USA? 🇺🇸",

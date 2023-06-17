@@ -14,7 +14,7 @@ const Hook = () => {
     <img src="outside.gif" />
     </div>
 
-      <div className="content-center justify-center bg-black py-20">
+      <div className="content-center justify-center bg-[#F1F21] py-20">
 
 
 
@@ -25,7 +25,7 @@ const Hook = () => {
   <div className="flex content-center justify-center">
 
 
-  <a className="bg-red-500 text-white px-4 py-2 rounded-full">
+  <a href="https://shop.luxracers.com"  className="bg-red-500 text-white px-4 py-2 rounded-full">
           🇺🇸 Shop now
         </a>
   </div>
