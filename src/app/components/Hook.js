@@ -11,7 +11,7 @@ const Hook = () => {
     <div className="grid grid-cols-1 md:grid-cols-2 h-full max-w-5xl">
 
     <div className=" content-center justify-center">
-    <img src="outside.gif" />
+    <img src="OUTSIDE.gif" />
     </div>
 
       <div className="content-center justify-center bg-[#F1F21] py-20">
@@ -25,7 +25,7 @@ const Hook = () => {
   <div className="flex content-center justify-center">
 
 
-  <a href="https://shop.luxracers.com"  className="bg-red-500 text-white px-4 py-2 rounded-full">
+  <a href="https://shop.luxracers.com/products/2-4g-drift-rc-car-4wd-rc-drift-car-toy-remote-control-gtr-model-ae86-vehicle-car-rc-racing-car-toy-for-children-christmas-gifts?variant=44974871052566"  className="bg-red-500 text-white px-4 py-2 rounded-full">
           🇺🇸 Shop now
         </a>
   </div>

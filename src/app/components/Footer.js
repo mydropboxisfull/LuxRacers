@@ -12,7 +12,7 @@ export class Footer extends Component {
         <footer className="bottom-0 bg-black text-white relative pt-5 shadow-md">
 			<div className="container mx-auto px-6 ">
 				<div className="justify-center items-center flex pt-[3%] pb-[1%]">
-					<h1 className='glow-blue italic'>LUXRacers</h1>
+					<h1 className='glow-blue italic'>LUXRacers 🏎 🏁</h1>
 				</div>
 				<p className="text-center text-xs pt-2 lg:text-lg bg-clip-text text-transparent bg-white pb-[3%] text-gray-400">
 					Question? Email us at{' '}
