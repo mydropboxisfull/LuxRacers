@@ -55,7 +55,7 @@ export default function Home() {
           </svg>
         </div>
  <div>
-          <p className="font-bold mt-1">FREE WORLDWIDE SHIPPING 📦 FATHERS DAY WEEKEND</p>
+          <p className="font-bold mt-1">FREE WORLDWIDE SHIPPING 📦</p>
           <p className="text-sm"></p>
         </div>
       </div>
